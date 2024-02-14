@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search_hint">Masukkan Nama User</string>
+    <string name="search">search</string>
+    <string name="tab_text_1">FOLLOWERS</string>
+    <string name="tab_text_2">FOLLOWING</string>
+    <string name="not_found_text">User not found</string>
+    <string name="followers">%1$d Followers</string>
+    <string name="following">%1$d Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+
+</resources>
